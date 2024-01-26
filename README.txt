@@ -1,7 +1,7 @@
 /*
 Title:      		WireWorld Terminal Sim
 Author:     		Jet Ng
-Date/LastModified:        11/06/2023
+Date/LastModified:      11/06/2023
 Description:       	Uses wireSim.c and printMap.c and user provided parameters via an input file with dimensions and 2D array values
                     to create a WireWorld animation for electrons moving within a closed system/logic gate.
 
